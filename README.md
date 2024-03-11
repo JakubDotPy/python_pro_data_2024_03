@@ -37,13 +37,13 @@ Alternativně můžete použít soubor [requirements.txt](requirements.txt).
 
 ## Harmonogram lekcí
 
-| Datum      | Téma                                                          | Odkaz na materiály | Odkaz na domácí úkol |
-|------------|---------------------------------------------------------------|--------------------|----------------------|
-| 11.03.2024 | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` |                    |                      | 
-| 18.04.2024 | Podmíněný výběr v `pandas`                                    |                    |                      |
-| 25.04.2024 | Propojování tabulek, agregace dat a řazení                    |                    |                      |
-| 01.04.2024 | Vizualizace s využitím knihovny `seaborn`                     |                    |                      |
-| 08.04.2024 | Datum a čas, metoda `shift`, pivot tabulky                    |                    |                      |
-| 15.04.2024 | Datová analýza s využitím AI nástrojů                         |                    |                      |
+| Datum      | Téma                                                          | Odkaz na materiály            | kvíz zadán |
+|------------|---------------------------------------------------------------|-------------------------------|------------|
+| 11.03.2024 | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [lekce 1](notebooks/lekce-01) | x          | 
+| 18.04.2024 | Podmíněný výběr v `pandas`                                    |                               |            |
+| 25.04.2024 | Propojování tabulek, agregace dat a řazení                    |                               |            |
+| 01.04.2024 | Vizualizace s využitím knihovny `seaborn`                     |                               |            |
+| 08.04.2024 | Datum a čas, metoda `shift`, pivot tabulky                    |                               |            |
+| 15.04.2024 | Datová analýza s využitím AI nástrojů                         |                               |            |
 
 *Materiály k lekcím vytvořeny na základě skvělé práce Anety Popelové*
