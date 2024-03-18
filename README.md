@@ -39,8 +39,8 @@ Alternativně můžete použít soubor [requirements.txt](requirements.txt).
 
 | Datum      | Téma                                                          | Odkaz na materiály            | kvíz zadán |
 |------------|---------------------------------------------------------------|-------------------------------|------------|
-| 11.03.2024 | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [lekce 1](notebooks/lekce-01) | x          | 
-| 18.04.2024 | Podmíněný výběr v `pandas`                                    |                               |            |
+| 11.03.2024 | `Jupyter` notebooky, Načtení dat s využitím knihovny `pandas` | [lekce 1](notebooks/lekce-01) |✔️          | 
+| 18.04.2024 | Podmíněný výběr v `pandas`                                    | [lekce 2](notebooks/lekce-02) |✔️          |
 | 25.04.2024 | Propojování tabulek, agregace dat a řazení                    |                               |            |
 | 01.04.2024 | Vizualizace s využitím knihovny `seaborn`                     |                               |            |
 | 08.04.2024 | Datum a čas, metoda `shift`, pivot tabulky                    |                               |            |
