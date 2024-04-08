@@ -43,7 +43,7 @@ Alternativně můžete použít soubor [requirements.txt](requirements.txt).
 | 18.04.2024 | Podmíněný výběr v `pandas`                                    | [lekce 2](notebooks/lekce-02) | ✔️         |
 | 25.04.2024 | Propojování tabulek, agregace dat a řazení                    | [lekce 3](notebooks/lekce-03) | ✔️         |
 | 02.04.2024 | Vizualizace s využitím knihovny `seaborn`                     | [lekce 4](notebooks/lekce-04) | ✔️         |
-| 08.04.2024 | Datum a čas, metoda `shift`, pivot tabulky                    |                               |            |
+| 08.04.2024 | Datum a čas, metoda `shift`, pivot tabulky                    | [lekce 5](notebooks/lekce-05) |            |
 | 15.04.2024 | Datová analýza s využitím AI nástrojů                         |                               |            |
 
 *Materiály k lekcím vytvořeny na základě skvělé práce Anety Popelové*
